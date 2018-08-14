@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+#inputStyle {
+  border: 0;
+  width: 280px;
+  padding: 15px 10px;
+}
+#inputStyle1 {
+  border: 0;
+  width: 280px;
+  padding: 15px 10px;
+}
+#divStyle {
+  padding: 0;
+  border: 0;
+  margin: 0%;
+  height: 100%;
+  width: 100%;
+}
