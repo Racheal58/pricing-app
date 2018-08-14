@@ -1,1 +1,1 @@
-# princing-app
+# pricing-app
